@@ -1,1 +1,1 @@
-# 2021_capstone_BrainAgePrediction_by_Federated_Learning
+# BrainAgePrediction_by_Federated_Learning
