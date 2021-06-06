@@ -1,4 +1,4 @@
-### BrainAgePrediction_by_Federated_Learning
+## BrainAgePrediction_by_Federated_Learning
 
 이번 프로젝트에서는 연합학습을 활용한 뇌연령예측 모델을 만드는 것을 목표로 하였다.
 하지만 아쉽게도 Colab의 개발 환경 특성상 사용할 수 있는 리소스가 제한되어져 있었고
